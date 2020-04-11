@@ -1,0 +1,44 @@
+# General settings
+title: Jannatul Ferdause Tumpa
+title_html: "<b>Jannat</b> Tumpa"
+description: Jannatul Ferdause Tumpa is a PhD student in Computer Science, mostly working on Mobile Health and Computing as well as Medical Imaging. 
+baseurl: ""
+url: "https://jannat-tumpa.github.io"
+
+# Author
+author: Jannatul Ferdause Tumpa
+
+email: jannatulferdause.tumpa@marquette.edu
+# twitter_username: jannat.tumpa
+github_username: jannatTumpa
+# keybase_username: gaalcaras
+linkedin_username: jftumpa
+author_website: https://jannat-tumpa.github.io
+curriculum:
+  url: assets/cv.pdf
+
+include: ['_pages']
+
+# Nav menu
+# nav_ext_links:
+#   - name: Blog
+#     url:
+#       fr: https://sociologs.com/fr/
+#       en: https://sociologs.com/en/
+
+# Favicon
+favicon:
+  safari: 5bbad5
+  theme: ffffff
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
+theme: academic
+gems:
+  - jekyll-feed
+exclude:
+  - jekyll_build.sh
+  - Gemfile
+  - Gemfile.lock
