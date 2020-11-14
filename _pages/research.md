@@ -4,23 +4,19 @@ title: Research
 permalink: /research/
 order: 3
 ---
+<!-- ## Projects
 
-<!-- ## Digital sociology
+- mTOCS
+- (e)BAP
+- XAI -->
 
-### PhD thesis (2016-...)
 
-*Making the source code. A social history of `git` from 1995 to present time* (temporary title). Advisors: [Emmanuel Didier](http://epidapo.ucla.edu/people/emmanuel-didier-phd)  and [Christophe Prieur](http://ses.telecom-paristech.fr/en/membres/christophe-prieur/).
+## Publications
 
-> By tracking the elaboration of [git](https://git-scm.com/), a collaboration tool designed by and for programmers to collaborate on source code, I study the interactions between digital devices ([*dispositifs*](https://en.wikipedia.org/wiki/Dispositif)), their makers and their users.
-> Issues about the legitimity of code, the differenciated attitudes towards programming and the management of digital work are central topics of my subject.
+- <u>Tumpa, Jannatul F.</u>, Riddhiman Adib, Dipranjan Das, Sheikh I. Ahamed, Judy Kim, Velinka Medic, Nathalie Abenoza, Andrew Zolot, Al Castro, Mirtha Pacheco, Rebecca Rowland, and Jay Romant. "Community-based Retinal Screening with Multilingual Software Support to Overcome Language Barriers of Minority Communities" In Conference Companion Publication of the 2020 on Computer Supported Cooperative Work and Social Computing (pp. 395-400).
 
-> I use the traditional methods of the social sciences (archive, field study and statistics) and newer methods enabled by digital tools ("big data", digital ethnography).
+- <u>Tumpa, Jannatul F.</u>, Riddhiman Adib, Dipranjan Das, Sheikh I. Ahamed, Judy Kim, Velinka Medic, Al Castro, Mirtha Pacheco, Rebecca Rowland, and Jay Romant. "mTEH: A Decision Support System for Tele-Ophthalmology to Improve Eye Health of Wisconsin Population in Community Settings." In 2019 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE), pp. 25-26. IEEE, 2019.
 
-### Journal RESET (2016-...)
+- Hasan, Md Kamrul, Md Munirul Haque, Riddhiman Adib, <u>Jannatul F. Tumpa</u>, Azima Begum, Richard R. Love, Young L. Kim, and I. Ahamed Sheikh. "Smarthelp: Smartphone-based hemoglobin level prediction using an artificial neural network." In AMIA Annual Symposium Proceedings, vol. 2018, p. 535. American Medical Informatics Association, 2018.
 
-I am a member of the Editorial Board of [RESET](http://reset.revues.org/) (Social science research on the Internet).
-
-## Sociology of education
-
-In collaboration with [Pablo Zamith](https://pablozamith.squarespace.com/) (a fellow PhD student at [MaxPo](http://www.maxpo.eu/)), I study the recruitement of students at the ENS of Paris, one of France top [*grandes écoles*](https://en.wikipedia.org/wiki/Grandes_%C3%A9coles).
-Based upon an original survey of the school archives, we are researching how the recruitement impacts the students' carriers using Regression Discontinuity Design. -->
+- Ahsan, Golam Mushih Tanimul, <u>Jannatul Ferdause Tumpa</u>, Riddhiman Adib, Sheikh Iqbal Ahamed, Daniel Petereit, Linda Burhansstipanov, Linda U. Krebs, and Mark Dignan. "A culturally tailored intervention system for cancer survivors to motivate physical activity." In 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC), vol. 1, pp. 875-880. IEEE, 2018.

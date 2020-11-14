@@ -1,20 +1,23 @@
 ---
 layout: page
-title: Extracurricular
+title: Services
 permalink: /extracurricular/
-order: 6
+order: 5
 ---
+### Graduate Consultant
 
-<!-- This page aims at explaining clearly the goals and methods of my PhD.
-If you read these words, I have probably contacted you to participate in it: if so, thanks a lot for taking the time to click on the link!
+**2019 February - Current** . ACM-W Student Chapter at Marquette
 
-I hope this page will help you answer any question you might have, including why I contacted you and how you can help me.
+I have worked towards foundation of this chapter at Marquette University in cooperation with fellow undergrad students and working as Graduate Consultant to guide the undergrad students for increasing participation in Grace Hopper Celebration and other women-focused events to inspire and motivate them for a better career. 
 
-If you still have unanswered questions after reading it, feel free to open an issue on [Github](https://github.com/gaalcaras/gaalcaras/issues) so I can improve this document.
+### Volunteer Python Instructor
 
-<small>
-*Lecteurs français, vous trouverez ici une [version traduite](/fr/recherche-git/) de cette page!*
-</small>
+**2018 August - December**. Girls Who Code, Marquette Chapter
 
----
-<!-- vim-markdown-toc Redcarpet -->
+It is a coding club for 5th - 12th grade students as part of National [Girls Who Code (GWC)](https://girlswhocode.com/) organization. I volunteered as an instructor of Python and it was one of the most rewarding experience I have so far. 
+
+### Poster Committee Member
+
+**2020 March** . AnitaB.org Institute
+
+As part of "Pay-it-forward" principle of AnitaB.org Institute, I volunteered as Reviewer of Poster Committe of GHC 2020. 

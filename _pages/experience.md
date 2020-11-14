@@ -5,12 +5,22 @@ permalink: /experience/
 order: 2
 ---
 
-### Graduate Assistant
+### Graduate Research Assistant
 
-**2017 August -Current** . Dept. of Computer Science, Marquette University, Milwaukee, Wisconsin. 
+**2017 August -Current** . Ubicomp Lab, Marquette University. 
 
-<!-- Conception of a collective survey from the ground up with students, introduction to basic statistics (descriptive statistics, hypothesis testing), to the [R language](https://cran.r-project.org/) and to the [RStudio](https://www.rstudio.com/)IDE. -->
+- Working on developing an Interpretable Retinal Screening model with CNN architectures utilizing the techniques to achieve Interpretability in ML
+- Designed and developed a collaborative tele-medicine framework collaborating with Medical College of Wisconsin and Milwaukee Health Dept. currently used for retinal screening in community-settings.
+- Designed and developed a Self-Management Support Tool based on Motivational Interviewing principles in collaboration with Department of Physical therapy  at Marquette University. 
 
+
+### Graduate Teaching Assistant
+
+**2017 August- 2019 Spring** . Dept. of Computer Science, Marquette University.
+
+- Instructor of Record for  "Object-Oriented Software Design" course using Java as an in Spring'20
+- Lab instructor for "Intro to Computer Programming" course using Python in Fall'17 and Fall'19
+- Lab instructor for "Object-Oriented Software Design" course using Java in Spring'18
 
 ### Investment Data Analytics Intern
 

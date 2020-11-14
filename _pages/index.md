@@ -8,6 +8,10 @@ seo:
 ---
 
 
-I am a 3rd year Graduate Student pursuing PhD in Computer Science at Marquette University located in Milwaukee, Wisconsin. Besides, I am current working as Graduate Assistant at my university. My Research interest includes Mobile Health and Computing as well as Medical imaging. 
+I am a Ph.D. candidate (4th year) in Computer Science at Marquette University located in Milwaukee, Wisconsin. Besides, I am currently working as a Graduate Research Assistant Under supervision of [Dr. Sheikh Iqbal Ahamed](http://www.mscs.mu.edu/~iq/) at [Ubicomp Lab, Marquette University](http://ubicomp.mscs.mu.edu/).
 
-Other than academic stuffs, I am passionate about women empowerment and have worked for co-founding ACM-W student chapter and serving as Graduate consultant. This chapter is working to reduce gender gap in tech. 
+My Research focus includes mHealth, Medical Imaging, Deep Learning, Explainable AI, and Behavioral Sceince. For my Ph.D. dissertation, I am developing a community telemedicine framework  with Explainable Retinal Assessment model and Self-Management Support to prevent vision loss from diabetes. 
+To know more about my research, click [here](/research). 
+
+
+Other than academic works, I am passionate about women empowerment and have worked for co-founding ACM-W student chapter at Marquette with a vision to contribute in the agenda of reducing gender gap in tech and I am serving as Graduate consultant there for last 2 years.

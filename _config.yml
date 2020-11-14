@@ -1,21 +1,21 @@
 # General settings
 title: Jannatul Ferdause Tumpa
 title_html: "<b>Jannat</b> Tumpa"
-description: Jannatul Ferdause Tumpa is a PhD student in Computer Science, mostly working on Mobile Health and Computing as well as Medical Imaging. 
+description: Jannat Tumpa is a Ph.D. candidate in Computer Science, mostly working on Mobile Health and Computing with focus on Medical Imaging and Computer Vision. 
 baseurl: ""
 url: "https://jannat-tumpa.github.io"
 
 # Author
 author: Jannatul Ferdause Tumpa
 
-email: jannatulferdause.tumpa@marquette.edu
+email: jannat.tumpa@marquette.edu
 # twitter_username: jannat.tumpa
 github_username: jannatTumpa
 # keybase_username: gaalcaras
 linkedin_username: jftumpa
-author_website: https://jannat-tumpa.github.io
+# author_website: https://jannat-tumpa.github.io
 curriculum:
-  url: assets/cv.pdf
+  url: assets/resume.pdf
 
 include: ['_pages']
 

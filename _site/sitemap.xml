@@ -8,13 +8,13 @@
   
   
   <url>
-    <loc>http://localhost:4000/_pages/404.html</loc>
+    <loc>https://jannat-tumpa.github.io/_pages/404.html</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang=""
-                href="http://localhost:4000/_pages/404.html"
+                href="https://jannat-tumpa.github.io/_pages/404.html"
                 />
     
     
@@ -32,13 +32,13 @@
   
   
   <url>
-    <loc>http://localhost:4000/_pages/education.html</loc>
+    <loc>https://jannat-tumpa.github.io/_pages/education.html</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang=""
-                href="http://localhost:4000/_pages/education.html"
+                href="https://jannat-tumpa.github.io/_pages/education.html"
                 />
     
     
@@ -56,13 +56,13 @@
   
   
   <url>
-    <loc>http://localhost:4000/experience/</loc>
+    <loc>https://jannat-tumpa.github.io/experience/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang=""
-                href="http://localhost:4000/experience/"
+                href="https://jannat-tumpa.github.io/experience/"
                 />
     
     
@@ -80,13 +80,13 @@
   
   
   <url>
-    <loc>http://localhost:4000/extracurricular/</loc>
+    <loc>https://jannat-tumpa.github.io/extracurricular/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang=""
-                href="http://localhost:4000/extracurricular/"
+                href="https://jannat-tumpa.github.io/extracurricular/"
                 />
     
     
@@ -104,13 +104,13 @@
   
   
   <url>
-    <loc>http://localhost:4000/</loc>
+    <loc>https://jannat-tumpa.github.io/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang=""
-                href="http://localhost:4000/"
+                href="https://jannat-tumpa.github.io/"
                 />
     
     
@@ -132,13 +132,13 @@
   
   
   <url>
-    <loc>http://localhost:4000/news/</loc>
+    <loc>https://jannat-tumpa.github.io/news/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang=""
-                href="http://localhost:4000/news/"
+                href="https://jannat-tumpa.github.io/news/"
                 />
     
     
@@ -156,37 +156,13 @@
   
   
   <url>
-    <loc>http://localhost:4000/publications/</loc>
+    <loc>https://jannat-tumpa.github.io/research/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang=""
-                href="http://localhost:4000/publications/"
-                />
-    
-    
-    
-    <changefreq>weekly</changefreq>
-    
-  </url>
-  
-  
-  
-
-  
-  
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/research/</loc>
-    
-    
-    <xhtml:link
-                rel="alternate"
-                hreflang=""
-                href="http://localhost:4000/research/"
+                href="https://jannat-tumpa.github.io/research/"
                 />
     
     
