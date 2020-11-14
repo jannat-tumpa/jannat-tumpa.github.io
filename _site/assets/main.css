@@ -51,10 +51,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 50px; }
 
 h1 {
-  margin-bottom: 7.14286px; }
+  margin-bottom: 7.1428571429px; }
 
 h4, h5, h6 {
-  margin-bottom: 7.14286px; }
+  margin-bottom: 7.1428571429px; }
 
 h1 + h2, h2 + h3, h3 + h4,
 h1 + h3, h1 + h4, h2 + h4 {
@@ -223,8 +223,8 @@ li code {
 
 pre {
   display: block;
-  padding-top: 16.66667px;
-  padding-bottom: 16.66667px;
+  padding-top: 16.6666666667px;
+  padding-bottom: 16.6666666667px;
   padding-left: 10px;
   overflow-x: auto;
   font-size: 1rem;
@@ -347,7 +347,7 @@ form input {
   font-family: "Open Sans", sans-serif;
   background: #fdfdfd;
   border: 1px solid #3F3F3F;
-  padding: 8.33333px; }
+  padding: 8.3333333333px; }
   @media (max-width: 75em) {
     form input {
       font-size: 1.15rem;
@@ -749,7 +749,7 @@ form input {
   overflow-y: hidden; }
   @media screen and (max-width: 700px) {
     .post-header .post-meta {
-      margin-bottom: 8.33333px; } }
+      margin-bottom: 8.3333333333px; } }
   .post-header .last-update {
     color: #3F3F3F; }
     .post-header .last-update a {
@@ -769,7 +769,7 @@ form input {
     padding-top: 0; }
     @media screen and (max-width: 700px) {
       .post-header .wrapper {
-        margin-top: 33.33333px; } }
+        margin-top: 33.3333333333px; } }
 
 @media screen and (max-width: 700px) {
   .with-thumbnail {
@@ -797,7 +797,7 @@ form input {
   .post-content .footnotes {
     font-size: 1.15rem;
     line-height: 1.84rem;
-    margin-top: 8.33333px;
+    margin-top: 8.3333333333px;
     padding-top: 25px; }
     @media (max-width: 75em) {
       .post-content .footnotes {
