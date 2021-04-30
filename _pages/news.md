@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 order: 4
 ---
+[May 17, 2021] Will be joining as "Data Science Intern" for summer 2021 at Cream team of PayPal Inc. based on San Jose, CA. I will be working on developing an Explainaible ML model from unclustered dataset. 
+
+[Apr 24, 2021] Participated in tech-talk session of "CRA-WP Grad Cohort for Women 2021" and presented a talk on my dissertation project. 
+
+[Feb 3, 2021] Received "Arthur J Schmitt Leadership Fellowship" for year 2021-2022 from Marquette University Graduate School funded by Arthur J. Schmitt Foundation. 
 
 [Nov 10, 2020] Presented a poster titled "Community Telemedicine Framework with AI and Motivational Interviewing to Prevent Vision Loss from Diabetes" at *"A celebration of Research- Virtual Poster Session"* organized by Marquette University. 
 
