@@ -21,6 +21,6 @@ order: 1
 
 ### Bachelors in Computer Science and Engineering
 
-**2017 August - 2020 May** CGPA: 3.33/4.0 Dept. of Computer Science, Bangladesh University of Engineering and Technology. 
+**2011 February - 2016 March** CGPA: 3.33/4.0 Dept. of Computer Science, Bangladesh University of Engineering and Technology. 
 
 **Relevant courseworks:** Programming Languages (Python, C, C++, Java), Data Structure, Algorithms, Algorithmic Engineering, Database, Computer Architecture, Compiler, Operating System, Computer Networks, Artificial Intelligence, Graphics, Computational Geometry
